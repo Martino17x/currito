@@ -1,4 +1,4 @@
-# Currito
+## Currito
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![CI](https://github.com/Martino17x/currito/actions/workflows/ci.yml/badge.svg)](https://github.com/Martino17x/currito/actions/workflows/ci.yml)
